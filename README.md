@@ -23,21 +23,7 @@ Ce projet vise à analyser les émissions de CO2 des véhicules commercialisés 
 5.	Classification du problème 
 6.	Modèles et méthodes d'analyse
 7.	Les travaux de Classification
-7.1	Rappel pré-procession
-7.2	Modèles de classification (tableaux/graphes)
-7.3	Hyperparamètres
-7.4	Techniques de Bagging et Boosting
-7.5	Interprétabilité et importance des caractéristiques
-7.6	Réseaux neurones
-7.7	Conclusion
 8.	Les travaux de Régression
-8.1	Modèles linéaires 
-8.2	Modèles avancés (tableaux/graphes)
-8.3	Hyperparamètres
-8.4	Techniques de Bagging et Boosting
-8.5	Interprétabilité et importance des caractéristiques
-8.6	Réseaux neurones
-8.7	Conclusion
 9.	Conclusions
 10.	Références
 
