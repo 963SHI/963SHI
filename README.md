@@ -34,6 +34,7 @@ Ce notebook se concentre sur la classification des véhicules selon leurs niveau
 
 ## 5. Projet CO2 Classification - Modélisation DL
 Le dernier notebook explore l'application de réseaux de neurones profonds pour la classification des véhicules selon leurs émissions de CO2, visant à comparer les performances avec les méthodes de ML classiques.
+
 Chaque notebook offre une approche différente pour analyser et prédire les émissions de CO2 des véhicules, permettant une comparaison approfondie des différentes méthodologies.
 
 ## Principales caractéristiques analysées
