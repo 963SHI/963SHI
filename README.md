@@ -7,8 +7,8 @@
 Dans le cadre de la lutte contre le changement climatique, ce projet vise à analyser et prédire les émissions de CO2 des véhicules commercialisés en France. Nous utilisons des techniques de data science et de machine learning pour développer des modèles capables de prédire les émissions de CO2 à partir des caractéristiques techniques des véhicules.
 
 ## Données utilisées
-## Source : Emissions de CO2 et de polluants des véhicules commercialisés en France
-## Fichiers :
+Source : Emissions de CO2 et de polluants des véhicules commercialisés en France
+Fichiers :
 - DataProjetCO2_2013.csv
 - DataProjetCO2_2014.csv
 
