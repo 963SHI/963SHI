@@ -6,12 +6,16 @@
  ## Description du contexte du projet
 Dans le cadre de la lutte contre le changement climatique, ce projet vise à analyser et prédire les émissions de CO2 des véhicules commercialisés en France. Nous utilisons des techniques de data science et de machine learning pour développer des modèles capables de prédire les émissions de CO2 à partir des caractéristiques techniques des véhicules.
 
-## Données utilisées
-Source : Emissions de CO2 et de polluants des véhicules commercialisés en France
+## Liens des Datasets
+Emissions de CO2 et de polluants des véhicules commercialisés en France
+http://www.data.gouv.fr
 
-Fichiers :
+## Nommage des Datasets
 - DataProjetCO2_2013.csv
 - DataProjetCO2_2014.csv
+- DataProjetCO2_2015.csv
+- DataProjetCO2_2022.csv
+- df_final.csv
 
 ## Structure du projet
 Le projet est structuré en 5 notebooks principaux, chacun se concentrant sur un aspect spécifique de l'analyse :
@@ -23,6 +27,7 @@ Ce notebook se concentre sur l'analyse exploratoire des données (EDA) et le pr�
 - Le nettoyage et la fusion des datasets
 - Le traitement des valeurs manquantes et aberrantes
 - L'encodage des variables catégorielles et la normalisation des variables numériques
+- Dataset final pour la modélisation 
   
 ## 2. Projet CO2 Régression - Modélisation ML
 Ce notebook aborde la modélisation par régression en utilisant des techniques de machine learning classiques pour prédire les émissions de CO2 des véhicules.
